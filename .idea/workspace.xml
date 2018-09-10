@@ -47,14 +47,6 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="composer dump-autoload" />
-      <command text="php composer dump-autoload" />
-      <command text="sudo composer dump-autoload" />
-      <command text="composer dump-autoload" />
-      <command text="php artisan migrate:refresh" />
-      <command text="php artisan migrate:reset" />
-      <command text="composer dump-autoload" />
-      <command text="php artisan migrate:refresh" />
       <command text="php artisan migrate" />
       <command text="php artisan:rollback" />
       <command text="php artisan migrate" />
@@ -72,6 +64,14 @@
       <command text="$ git push origin master" />
       <command text="git push origin master" />
       <command text="git init" />
+      <command text="git add -A" />
+      <command text="git commit -m &quot;first commit&quot;" />
+      <command text="git push origin master" />
+      <command text="git push GameShop master" />
+      <command text="git init" />
+      <command text="git remote GameShop https://github.com/DennisMo-BE/GameShop" />
+      <command text="git remote origin https://github.com/DennisMo-BE/GameShop" />
+      <command text="git add " />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
@@ -295,12 +295,12 @@
       <workItem from="1529938621819" duration="54000" />
       <workItem from="1529948142823" duration="8271000" />
       <workItem from="1536232230799" duration="1276000" />
-      <workItem from="1536571896584" duration="775000" />
+      <workItem from="1536571896584" duration="1101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29150000" />
+    <option name="totallyTimeSpent" value="29476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
